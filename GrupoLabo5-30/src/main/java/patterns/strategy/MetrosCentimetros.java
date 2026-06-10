@@ -1,4 +1,4 @@
-package org.example.patrones;
+package patterns.strategy;
 
 public class MetrosCentimetros implements EstrategiaConversion {
     private final double valorCm = 100;
