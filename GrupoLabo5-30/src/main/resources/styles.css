@@ -1,0 +1,59 @@
+.root {
+    -fx-background-color: #F5FDC6;
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.title {
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #41521F;
+}
+
+.subtitle {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #41521F;
+}
+
+.label, .info-label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #41521F;
+}
+
+.text-field {
+    -fx-background-color: #FFFFFF;
+    -fx-border-color: #D0B17A;
+    -fx-border-radius: 4px;
+}
+
+.combo-box {
+    -fx-background-color: #F5C396;
+    -fx-border-color: #D0B17A;
+    -fx-border-radius: 4px;
+}
+
+.btn-convertir {
+    -fx-background-color: #A89F68;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px 25px;
+    -fx-cursor: hand;
+}
+
+.btn-convertir:hover {
+
+    -fx-background-color: #41521F;
+}
+
+.resultado {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #41521F;
+}
+
+.error-text {
+    -fx-text-fill: #D32F2F;
+}
